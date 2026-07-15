@@ -70,7 +70,7 @@ To begin my career as a Data Analyst where I can apply my analytical, programmin
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/RajeshVision
-- LinkedIn: *(Add your LinkedIn profile here)*
-- Email: *(Add your email address here)*
+- LinkedIn:https://www.linkedin.com/in/rajesh-jena-681500398/
+- Email: r86051249@gmail.com
 
 ⭐ Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
